@@ -2,14 +2,14 @@
 
 ### Manual de Uso – To-Do List
 
-**Tela Principal:**  
+## Tela Principal: 
 Ao abrir o programa, você vera: 
 - Um campo de texto para digitar a tarefa.  
 - Botões: **Adicionar**, **Concluir**, **Excluir**.  
 - Uma lista exibindo as tarefas criadas.  
 - Uma imagem motivacional ao lado da lista.  
 
-**Funcionalidades:**  
+## Funcionalidades:
 1. **Adicionar tarefa**  
    - Digite a tarefa no campo de texto.  
    - Clique em **Adicionar**.  
