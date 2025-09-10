@@ -18,9 +18,13 @@ O sistema permite que o usuário adicione, conclua e exclua tarefas, além de ex
 - Exibição de imagem lateral
 
 ## 🖥️ Como executar o projeto
-1ª - Instale as dependências no terminal do python com o seguinte comando:
+1ª - Instale um interpretador para Python no computador
+
+2ª - Instale alguma IDE de sua escolha (Pycharm, VSCode)
+
+3ª - Instale as dependências no terminal do python com o seguinte comando:
 pip install PySide6
 
-2ª - Copie o código disponibilizado
+4ª - Copie o código disponibilizado
 
-3ª - Execute a aplicação!
+5ª - Execute a aplicação!
