@@ -1,0 +1,29 @@
+## 📖 2. Manual do Usuário
+
+### Manual de Uso – To-Do List
+
+**Tela Principal:**  
+Ao abrir o programa, você vera: 
+- Um campo de texto para digitar a tarefa.  
+- Botões: **Adicionar**, **Concluir**, **Excluir**.  
+- Uma lista exibindo as tarefas criadas.  
+- Uma imagem motivacional ao lado da lista.  
+
+**Funcionalidades:**  
+1. **Adicionar tarefa**  
+   - Digite a tarefa no campo de texto.  
+   - Clique em **Adicionar**.  
+   - A tarefa aparecerá na lista.  
+
+2. **Concluir tarefa**  
+   - Clique sobre uma tarefa da lista.  
+   - Pressione o botão **Concluir**.  
+   - A tarefa será marcada com um `☑️`.  
+
+3. **Excluir tarefa**  
+   - Clique sobre uma tarefa da lista.  
+   - Pressione o botão **Excluir**.  
+   - A tarefa desaparecerá da lista.  
+
+4. **Edição de tarefa**
+    - Atualmente a versão não conta com edição de tarefa, caso queira editar, tera que excluir e adicionar uma nova
